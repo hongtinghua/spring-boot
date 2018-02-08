@@ -12,7 +12,7 @@
 	<name>Spring Boot Actuator AutoConfigure</name>
 	<description>Spring Boot Actuator AutoConfigure</description>
 	<properties>
-		<main.basedir>${basedir}/../..</main.basedir>
+		 <main.basedir>${basedir}/../..</main.basedir>
 	</properties>
 	<dependencies>
 		<!-- Compile -->
